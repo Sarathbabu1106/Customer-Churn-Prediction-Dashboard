@@ -16,7 +16,8 @@ This project addresses the business challenge of customer attrition. I developed
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview]
+( https://github.com/Sarathbabu1106/Customer-Churn-Prediction-Dashboard/blob/main/dashboard_preview.png )
 
 ## 💡 Key Insights
 * **High-Risk Segment:** Fiber Optic users and Month-to-Month contract holders showed the highest churn probability (avg > 60%).
