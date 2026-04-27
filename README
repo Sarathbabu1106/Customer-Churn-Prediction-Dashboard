@@ -1,0 +1,29 @@
+# AI-Driven Customer Churn Prediction & Analytics
+
+## 📌 Project Overview
+This project addresses the business challenge of customer attrition. I developed a machine learning pipeline to predict churn probability and designed an interactive Power BI dashboard to translate these predictions into actionable business insights.
+
+## 🚀 Technical Stack
+* **Language:** Python 3.11
+* **Libraries:** Pandas, Scikit-Learn, NumPy
+* **Visualization:** Power BI (DAX, Power Query)
+* **Model:** Random Forest Classifier
+
+## ⚙️ How it Works
+1. **Data Engineering:** Cleaned raw telco data and handled missing values/encoding using Python.
+2. **Predictive Modeling:** Trained a Random Forest model to calculate the churn probability for each customer.
+3. **BI Integration:** Exported predictions to Power BI to create a risk-based heatmap.
+
+## 📊 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
+
+## 💡 Key Insights
+* **High-Risk Segment:** Fiber Optic users and Month-to-Month contract holders showed the highest churn probability (avg > 60%).
+* **Proactive Retention:** The "Individual Risk Score" allows the retention team to target the top 10% of at-risk customers before they leave.
+
+## 📁 Repository Structure
+* `churn_model.py`: Python script for data preprocessing and ML modeling.
+* `Churn_Final_Analysis.csv`: Final dataset with predicted churn scores.
+* `Churn_Dashboard.pbix`: Power BI source file.
