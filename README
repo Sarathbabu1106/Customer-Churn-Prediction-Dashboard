@@ -18,7 +18,6 @@ This project addresses the business challenge of customer attrition. I developed
 
 ![Dashboard Preview](dashboard_preview.png)
 
-
 ## 💡 Key Insights
 * **High-Risk Segment:** Fiber Optic users and Month-to-Month contract holders showed the highest churn probability (avg > 60%).
 * **Proactive Retention:** The "Individual Risk Score" allows the retention team to target the top 10% of at-risk customers before they leave.
