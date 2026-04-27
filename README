@@ -14,6 +14,9 @@ This project addresses the business challenge of customer attrition. I developed
 2. **Predictive Modeling:** Trained a Random Forest model to calculate the churn probability for each customer.
 3. **BI Integration:** Exported predictions to Power BI to create a risk-based heatmap.
 
+## 📊 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
 
 ## 💡 Key Insights
 * **High-Risk Segment:** Fiber Optic users and Month-to-Month contract holders showed the highest churn probability (avg > 60%).
